@@ -1,0 +1,7 @@
+{
+  "name": "STYLEHUB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
